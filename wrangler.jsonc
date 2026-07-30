@@ -1,0 +1,8 @@
+{
+  "name": "wumpanik-static",
+  "compatibility_date": "2026-07-30",
+  "assets": {
+    "directory": "./",
+    "not_found_handling": "404-page"
+  }
+}
